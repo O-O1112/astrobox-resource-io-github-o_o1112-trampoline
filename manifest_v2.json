@@ -24,7 +24,13 @@
     "xmb9p": {
       "version": "1.0.0",
       "file_name": "downloads/io.github.o_o1112.trampoline.release.rpk",
-      "versionCode": 1
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "v1.0.0\n- 全屏实景首页＋一指滑翔蹦跳玩法，支持屏幕左右无缝穿屏与扫掠防穿透落地\n- 内置白云、金弹簧、脆脆云与移动青云踏板，新增高空星星币、火箭道具及三段海拔变色天际\n- 实装弹跳调校升级系统（弹力/金簧/灵巧/磁吸）与 3 款可解锁角色外观，本地保存最高纪录"
+        }
+      ]
     }
   },
   "ext": {}
