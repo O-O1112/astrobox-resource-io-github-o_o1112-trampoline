@@ -20,11 +20,114 @@
   },
   "links": [],
   "downloads": {
+    "xmrw5": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_RedmiWatch4-5__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmrw5xring": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_RedmiWatch4-5__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmrw6": {
+      "version": "1.0.3",
+      "file_name": "downloads/3_RedmiWatch4-5__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmb10": {
+      "version": "1.0.3",
+      "file_name": "downloads/2_Band9-10-11__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.3",
+      "file_name": "downloads/2_Band9-10-11__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.3",
+      "file_name": "downloads/1_Band9Pro-10Pro-8Pro__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.3",
+      "file_name": "downloads/2_Band9-10-11__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.3",
+      "file_name": "downloads/2_Band9-10-11__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmb9": {
+      "version": "1.0.3",
+      "file_name": "downloads/2_Band9-10-11__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
     "xmb9p": {
       "version": "1.0.2",
       "file_name": "downloads/io.github.o_o1112.trampoline.release.rpk",
       "versionCode": 3,
       "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        },
         {
           "version": "1.0.2",
           "content": "v1.0.2（versionCode 3）手感调慢优化版：\n1. 重调重力与起跳节奏（保留 136px 完整跳高，单次滞空时间延长约 50%），下降与换踏板反应更从容，告别“太快抓不住”；\n2. 同步放缓横向最大滑翔速度、左右移动青云速度、火箭冲刺速度（延长冲刺帧数保持总升空高度不变）及指尖跟手倍率；\n3. 保留 v1.0.1 切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
@@ -36,6 +139,72 @@
         {
           "version": "1.0.0",
           "content": "v1.0.0\n- 全屏实景首页＋一指滑翔蹦跳玩法，支持屏幕左右无缝穿屏与扫掠防穿透落地\n- 内置白云、金弹簧、脆脆云与移动青云踏板，新增高空星星币、火箭道具及三段海拔变色天际\n- 实装弹跳调校升级系统（弹力/金簧/灵巧/磁吸）与 3 款可解锁角色外观，本地保存最高纪录"
+        }
+      ]
+    },
+    "xmws3": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_WatchS3-S4__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmws4xring": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_WatchS3-S4__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmws441": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_WatchS3-S4__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmws4": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_WatchS3-S4__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmws541": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_WatchS3-S4__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
+        }
+      ]
+    },
+    "xmws5": {
+      "version": "1.0.3",
+      "file_name": "downloads/4_WatchS3-S4__trampoline.rpk",
+      "versionCode": 4,
+      "updatelogs": [
+        {
+          "version": "1.0.3",
+          "content": "v1.0.3（versionCode 4）全系列穿戴屏幕适配版：\n1. 重构物理舞台与世界边界参数为跨分辨率可配置架构（worldConfig.js），保持全机型滞空时间与弹跳节奏一致；\n2. 新增 Xiaomi Smart Band 9 / 10 / 11 跑道屏（212 宽）、REDMI Watch 4 / 5 / 5 eSIM 方表（432 宽）与 Xiaomi Watch S3 / S4 / S4 eSIM 圆表（466 宽）专属 1:1 美术精灵图与 UI 分包；\n3. 延续 v1.0.2 从容弹跳手感、切后台自动续跳、10 格踏板对象池及脆云碎裂反馈。"
         }
       ]
     }
